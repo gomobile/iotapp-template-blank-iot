@@ -1,16 +1,14 @@
 {
-	"reponame":"iotapp-template-blank-iot",
+	"repoName":"iotapp-template-blank-iot",
 	"title":"Blank Template",
 	"tooltip":"A simple blank node.js application.",
 	"description":"A simple blank node.js application.",
 	"articleurl":"https://software.intel.com/en-us/xdk/docs/intel-xdk-iot-edition-nodejs-templates",
-    	"template":"true",
     	"screenshotUrl":"",
     	"iconUrl":"",
 	"highlights":[""],
     	"keywords":[""],
-	"visible": "true",
-	"apppreview":"false",
+	"visible": false,
 	"appname":"demo.blankiot",
 	"relname":"4.0.0",
   	"projectTypeName": "com.intel.xdk.projecttype.iotapp"
