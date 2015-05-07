@@ -1,5 +1,5 @@
 {
-	"repoName":"iotapp-template-blank-iot",
+	"repoName":"iot-template-blank",
 	"title":"Blank Template",
 	"tooltip":"A simple blank node.js application.",
 	"description":"A simple blank node.js application.",
@@ -8,9 +8,7 @@
     	"iconUrl":"",
 	"highlights":[""],
     	"keywords":[""],
-    "section" : "iot-templates",
-    "group" : "blank",
-	"visible": false,
+	"visible": true,
 	"appname":"demo.blankiot",
 	"relname":"4.0.0",
   	"projectTypeName": "com.intel.xdk.projecttype.iotapp"
