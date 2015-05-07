@@ -8,6 +8,8 @@
     	"iconUrl":"",
 	"highlights":[""],
     	"keywords":[""],
+    "section" : "iot-templates",
+    "group" : "blank",
 	"visible": false,
 	"appname":"demo.blankiot",
 	"relname":"4.0.0",
