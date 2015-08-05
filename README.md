@@ -1,4 +1,4 @@
-Local Temperature Node.js IoT App
+Blank Node.js IoT App
 ============================
 The Blank Node.js sample application distributed within Intel® XDK IoT Edition under the Internet of Things  project creation option.
 
