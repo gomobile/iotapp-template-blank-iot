@@ -1,6 +1,6 @@
 {
-  "name": "blankapp",
-  "description": "",
+  "name": "xdk-iot-blank-template",
+  "description": "Intel® XDK IoT Blank Node.js Template",
   "version": "0.0.0",
   "main": "main.js",
   "engines": {
