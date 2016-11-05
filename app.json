@@ -10,6 +10,6 @@
   "description" : "Use this template to start an IoT Node.js app on any supported IoT board. The target board must support Node.js. It is helpful if the board includes support for I/O access via the MRAA and UPM libraries.",
   "articleUrl" : "",
   "keywords": ["blank template"],
-  "targets": ["edison","galileo","joule","gateway"],
+  "targets": ["any"],
   "runtimes": ["node"]
 }
