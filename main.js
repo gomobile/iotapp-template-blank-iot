@@ -9,10 +9,12 @@
  */
 
 
-// keep these lines (below) for proper jshinting and jslinting
-/*jslint node:true, vars:true, bitwise:true */
-/*jshint unused:true, undef:true */
+// keep /*jslint and /*jshint lines for proper jshinting and jslinting
 // see http://www.jslint.com/help.html and http://jshint.com/docs
+/* jslint node:true */
+/* jshint unused:true */
+
+"use strict" ;
 
 
 var mraa = require("mraa") ;
