@@ -21,5 +21,6 @@ var mraa = require("mraa") ;
 
 // add any UPM requires that you need
 // and the rest of your app goes here
+// see the samples for more detailed examples
 
 console.log(mraa) ;     // prints mraa object to XDK IoT debug output panel
