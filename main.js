@@ -9,7 +9,7 @@
  */
 
 
-// keep /*jslint and /*jshint lines for proper jshinting and jslinting
+// spec jslint and jshint lines for desired JavaScript linting
 // see http://www.jslint.com/help.html and http://jshint.com/docs
 /* jslint node:true */
 /* jshint unused:true */
