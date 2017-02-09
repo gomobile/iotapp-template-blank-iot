@@ -1,15 +1,15 @@
 {
   "title" : "Blank IoT Node.js Template",
   "projectTypeName" : "com.intel.xdk.projecttype.iotapp",
-  "sample": false,
+  "sample" : false,
   "template": true,
   "visible" : true,
   "sortWeight" : "1.0",
   "repoName" : "iotapp-template-blank-iot",
   "tooltip" : "Blank IoT Node.js starter app.",
   "description" : "Use this template to start an IoT Node.js app. The target board must support Node.js. It is helpful, but not necessary, if the board also includes support for I/O access via the MRAA and UPM libraries.",
-  "articleUrl" : "https://github.com/gomobile/iotapp-template-blank-iot/blob/master/README.md",
-  "keywords": ["blank template"],
-  "targets": ["galileo","minnow","edison","joule","gateway"],
-  "runtimes": ["node"]
+  "articleUrl" : "https://github.com/gomobile/iotapp-template-blank-iot/",
+  "keywords" : ["blank template"],
+  "targets" : ["galileo","minnow","edison","joule","gateway"],
+  "runtimes" : ["node"]
 }
