@@ -1,5 +1,6 @@
 Intel® XDK IoT Blank Node.js\* App Template
 ===========================================
+
 See [LICENSE.md](LICENSE.md) for license terms and conditions.
 
 This sample application is distributed as part of the
@@ -19,6 +20,7 @@ information regarding the upm sensor and actuator library APIs.
 
 App Overview
 ------------
+
 This blank template creates a project folder that contains the minimum files
 needed for an Intel XDK Node.js IoT app. The development process assumes that
 your target device is running a compatible version of
@@ -27,11 +29,13 @@ connection.
 
 Important App Files
 -------------------
+
 * main.js
 * package.json
 
 Important Project Files
 -----------------------
+
 * README.md
 * LICENSE.md
 * \<project-name\>.xdk
