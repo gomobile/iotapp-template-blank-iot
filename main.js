@@ -5,7 +5,7 @@
  * The target board must support Node.js. It is helpful if the board includes
  * support for I/O access via the MRAA and UPM libraries.
  *
- * https://software.intel.com/en-us/xdk/docs/lp-xdk-iot
+ * <https://software.intel.com/en-us/xdk/docs/using-templates-nodejs-iot>
  */
 
 /* spec jslint and jshint lines for desired JavaScript linting */
